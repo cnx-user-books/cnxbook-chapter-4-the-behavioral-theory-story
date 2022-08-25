@@ -1,49 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Jim Buuck">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12211</md:content-id>
-  <md:title>Chapter 4: The Behavioral Theory Story</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>e52c2a53-5000-45a0-acad-f5db2587a34a</md:uuid>
-<md:slug>chapter-4-the-behavioral-theory-story</md:slug>
-</metadata>
-
+    <md:content-id>col12211</md:content-id>
+    <md:title>Chapter 4: The Behavioral Theory Story</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>e52c2a53-5000-45a0-acad-f5db2587a34a</md:uuid>
+    <md:slug>chapter-4-the-behavioral-theory-story</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m49046"/>
-        
-      
-    
-    
-      <col:module document="m49047"/>
-        
-      
-    
-    
-      <col:module document="m49048"/>
-        
-      
-    
-    
-      <col:module document="m49049"/>
-        
-      
-    
-    
-      <col:module document="m49050"/>
-        
-      
-    
+    <col:module document="m49046"/>
+    <col:module document="m49047"/>
+    <col:module document="m49048"/>
+    <col:module document="m49049"/>
+    <col:module document="m49050"/>
   </col:content>
 </col:collection>
